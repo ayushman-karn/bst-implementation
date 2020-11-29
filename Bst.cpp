@@ -1,4 +1,4 @@
-//implemntation of binary tree
+//implementation of binary tree
 #include <iostream>
 #include <queue>
 #include <climits>
